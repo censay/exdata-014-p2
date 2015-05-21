@@ -1,8 +1,8 @@
 # Q5
 # How have emissions from motor vehicle sources changed from 
 # 1999-2008 in Baltimore City?
+# Upload a PNG file containing your plot addressing this question.
 
-Upload a PNG file containing your plot addressing this question.
 # Import data from working directory
 NEI <- readRDS("summarySCC_PM25.rds")
 SCC <- readRDS("Source_Classification_Code.rds")
